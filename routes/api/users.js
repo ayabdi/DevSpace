@@ -7,12 +7,13 @@ const config = require("config");
 const { check, validationResult } = require("express-validator");
 
 //User model
-const User = require("../../models/user");
+const User = require("../../models/User");
 
 //@route POST api/users
 //@desc  Register User
 //@access Public
 
+//Validating entries
 router.post(
   "/",
   [
@@ -53,6 +54,7 @@ router.post(
         avatar,
         password,
       });
+
       //Encrypt Password
       const salt = await bcrypt.genSalt(10);
       user.password = await bcrypt.hash(password, salt);
