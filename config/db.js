@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const config = require('config');
 const db = 'mongodb://127.0.0.1:27017'
 
+
 const connectDB = async () => {
 	try {
 		await mongoose.connect(db, {
