@@ -37,20 +37,20 @@ Social website for developers developed on MERN stack
 
 
  
-1. Sign In (Authentication with JWT) <br/>
+1. Sign In (Authentication with JWT) <br/><br/>
   <img width="638" alt="" src="https://user-images.githubusercontent.com/46926470/116825299-52a6b300-ab97-11eb-8dd4-53f878c33274.png">,<br/><br/>
 
-2. Creating Profile <br/>
+2. Creating Profile <br/><br/>
   <img width="638" alt="" src="https://user-images.githubusercontent.com/46926470/116825342-96012180-ab97-11eb-8eee-6ddd67b6c38b.png">,<br/><br/>
 
 
-3. Creating Posts and Posts feed <br/>
+3. Creating Posts and Posts feed <br/><br/>
   <img width="638" alt="Webp net-resizeimage (1)" src="https://user-images.githubusercontent.com/46926470/116825411-f1331400-ab97-11eb-9b92-b6bbe8e01e3d.png">,<br/><br/>
   <img width="638" alt="Webp net-resizeimage (1)" src="https://user-images.githubusercontent.com/46926470/116825441-12940000-ab98-11eb-9a7e-dcf8ca7c2fab.png">,<br/><br/>
 
 
 
-4. Browse Developers <br/>
+4. Browse Developers <br/><br/>
  <img width="638" alt="" src="https://user-images.githubusercontent.com/46926470/116825557-846c4980-ab98-11eb-9c88-3b6f64e0d51d.png"><br/> <br/>
 
 
